@@ -1,0 +1,19 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.3*
+G04 #@! TF.CreationDate,2024-06-24T09:54:46+02:00*
+G04 #@! TF.ProjectId,Phase Amplitude Detector,50686173-6520-4416-9d70-6c6974756465,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Paste,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.3) date 2024-06-24 09:54:46*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,4.000000X6.000000*%
+G04 APERTURE END LIST*
+D10*
+X59500000Y-69238840D03*
+X59500000Y-58738840D03*
+M02*

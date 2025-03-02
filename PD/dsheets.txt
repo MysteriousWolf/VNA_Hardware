@@ -1,0 +1,13 @@
+ICE40UP: https://www.latticesemi.com/Products/FPGAandCPLD/iCE40UltraPlus
+ - Checklist: https://www.latticesemi.com/view_document?document_id=47779
+ - Datasheet: https://www.latticesemi.com/view_document?document_id=51968
+ - Pinout: https://www.latticesemi.com/view_document?document_id=51971
+ - Programming: https://www.latticesemi.com/view_document?document_id=46502
+ADC (ADS4222): https://www.ti.com/product/ADS4222/part-details/ADS4222IRGCR
+ - Datasheet: https://www.ti.com/lit/ds/symlink/ads4222.pdf?ts=1717599826730
+ - Evaluation module CAD: https://www.ti.com/lit/zip/slac459
+Flash (IS25WP032D-JBLE): https://si.farnell.com/integrated-silicon-solution-issi/is25wp032d-jble/flash-memory-32mbit-133mhz-soic/dp/2901151
+Logic Level Shifter (LSF0108PWR): https://si.farnell.com/texas-instruments/lsf0108pwr/volt-level-translator-octal-tssop/dp/3006774
+TXCO: https://si.farnell.com/epson/x1g005421021612/tcxo-48mhz-0-5ppm-2-5mm-x-2mm/dp/3597161
+1.8V reg: https://si.farnell.com/texas-instruments/tps79618dcqr/ldo-fixed-1-8v-1a-sot-223-6/dp/3122611
+1.2V reg: https://si.farnell.com/diodes-inc/ap2112k-1-2trg1/ldo-dc-dc-conv-1-2v-0-6a-sot-25/dp/3942373
